@@ -1,6 +1,6 @@
 # NGROK
 ### Description
-Herramienta para acceder/exponer desde internet a localhost mediante cualquier puerto.
+Herramienta para acceder/exponer desde localhost a internet mediante cualquier puerto. Usado tambien para realizar demostraciones.
 
 ## Pre-requisites
 - Sign in on ngrok.com
